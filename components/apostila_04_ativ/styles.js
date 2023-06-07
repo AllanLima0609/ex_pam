@@ -57,11 +57,13 @@ const styles = StyleSheet.create({
       color: '#FFCDD2', 
       textAlign: 'center', 
       }, 
-      textLabel: {
+      txtLeft:{
+        alignSelf: 'flex-start',
+        marginLeft: 8,
         fontSize: 18,
-        color: '#FFCDD2',
-        textAlign: 'center',
+        
       },
+      
 });
 
 

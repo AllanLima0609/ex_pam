@@ -18,7 +18,7 @@ function Apostila04_ativ(){
       <Text style={styles.txtSaida}>
          {mensagem}
          </Text>
-      <Text style={styles.texto}>
+      <Text style={styles.txtLeft}>
           Nome
          </Text>
       <TextInput 
@@ -28,7 +28,7 @@ function Apostila04_ativ(){
       />
 
 
-      <Text style={styles.texto}>
+      <Text style={styles.txtLeft}>
          Sobrenome
          </Text>
       <TextInput 
